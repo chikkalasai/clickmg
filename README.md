@@ -1,2 +1,0 @@
-# clickmg
-dogs breed
